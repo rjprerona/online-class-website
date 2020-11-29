@@ -1,0 +1,17 @@
+.course{
+    padding-top: 40px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    margin-right: 10px;
+} 
+
+.btn-style{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
